@@ -1,0 +1,91 @@
+.container{
+	background-color: black;
+	border-left: 60px solid black;
+	padding-top: 5px;
+
+	 
+
+}
+.books{
+	
+	color: white;
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.head{
+	color: white;
+	font-size: 10px;
+	text-align:center;
+}
+
+
+
+
+.img1{
+	column-gap: 100px;
+	width: 200px;
+	height: 250px;
+
+}
+
+.img2{
+	width: 200px;
+	height: 250px;
+
+}
+.img3{
+	width: 200px;
+	height: 250px;
+
+}
+.img4{
+	width: 200px;
+	height: 250px;
+
+}
+.img5{
+	width: 200px;
+	height: 250px;
+
+}
+.img6{
+	width: 200px;
+	height: 250px;
+
+}
+.img7{
+	width: 200px;
+	height: 250px;
+
+}
+.img8{
+	width: 200px;
+	height: 250px;
+
+}
+.img9{
+	width: 200px;
+	height: 250px;
+
+}
+.img10{
+	width: 200px;
+	height: 250px;
+}
+.img11{
+	width: 200px;
+	height: 250px;
+}
+.img12{
+	width: 200px;
+	height: 250px;
+}
+
+img:hover{
+	
+	transform: scaleX(-1);
+
+}
